@@ -14,6 +14,11 @@
 
 同理-找到Replay安装目录下应用程序后，直接替换该目录下的app.asar资源文件即可，找不到的话用搜索查找Replay目录下的该文件然后直接替换，重启即可！
 
+##预览截图
+
+![CleanShot 2025-05-13 at 00 07 02@2x](https://github.com/user-attachments/assets/ccb066f1-e603-4eae-b890-65e10d09439e)
+
+
 ## **免责说明**
 本站仅提供Replay程序的内构中文汉化，不涉及对程序功能做任何其他改动。本资源中文汉化仅供学习娱乐使用，请勿倒卖非法其他用途！造成一切后果与编译作者无关！
 By编译：mr.cody@foxmail.com
