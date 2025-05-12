@@ -1,5 +1,5 @@
 # Replay-AI-Audio-Tool
-# Replay AI音频工具【汉化资源包】
+# Replay AI 音频工具【汉化资源包】
 
 软件程序[官方下载地址](https://www.weights.com/replay)
 
